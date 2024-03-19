@@ -1,0 +1,12 @@
+{
+  "name": "krasilnikov_password_generation",
+  "version": "1.0.0",
+  "description": "password_generation",
+  "main": "passwordGeneration.js",
+  "scripts": {
+    "start": "node ./passwordGeneration.js"
+  },
+  "keywords": [],
+  "author": "Denis Krasilnikov",
+  "license": "ISC"
+}
